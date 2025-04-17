@@ -1,2 +1,2 @@
 # DopamineProject
-Хемометрический проект по предсказанию характеристики связывания малых молекул с лекарственной мишенью. (Связываемость с рецепторами дофамина). Различные примеры создания моделей классификации и регрессии, где в качестве фичей используются отпечатки моргана или дескрипторы RDkit, а так же эксперементирование с различными методами понижения размерности 
+A chemometric project to predict the binding characterization of small molecules to a drug target. (Binding to dopamine receptors). Various examples of creating classification and regression models using Morgan fingerprints or RDkit descriptors as features, as well as experimenting with different dimensionality reduction methods.
